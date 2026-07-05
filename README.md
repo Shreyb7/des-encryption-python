@@ -93,7 +93,7 @@ Enter plaintext:
 Hello World
 
 Encrypted Ciphertext:
-b'...'
+b'p*\xda\x9e]\x04\xf3\x14\xc48\xfb\xe67\xb2\x0eu'
 
 Decrypted Plaintext:
 Hello World
